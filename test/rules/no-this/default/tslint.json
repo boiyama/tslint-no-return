@@ -1,0 +1,6 @@
+{
+  "rulesDirectory": ["../../../../lib"],
+  "rules": {
+    "no-return": true
+  }
+}

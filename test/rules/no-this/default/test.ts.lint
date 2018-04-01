@@ -1,0 +1,12 @@
+var foo = bar => bar * bar;
+
+function foo(bar) { var baz = bar * bar; return baz; }
+                                         ~~~~~~~~~~~ [failure]
+
+var foo = function (bar) { var baz = bar * bar; return baz; };
+                                                ~~~~~~~~~~~ [failure]
+
+var foo = bar => { var baz = bar * bar; return baz; };
+                                        ~~~~~~~~~~~ [failure]
+
+[failure]: Unexpected return, use concise body syntax instead.
