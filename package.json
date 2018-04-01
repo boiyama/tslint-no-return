@@ -1,6 +1,6 @@
 {
   "name": "tslint-no-return",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "TSLint rule to disallow return statement",
   "keywords": [
     "tslint"
