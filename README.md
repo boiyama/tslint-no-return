@@ -1,0 +1,1 @@
+# tslint-no-return
