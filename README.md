@@ -1,7 +1,7 @@
 # tslint-no-return
 
 [![npm](https://img.shields.io/npm/v/tslint-no-return.svg)](https://www.npmjs.com/package/tslint-no-return)
-[![Build Status](https://travis-ci.org/boiyaa/tslint-no-return.svg?branch=master)](https://travis-ci.org/boiyaa/tslint-no-return)
+[![Build Status](https://travis-ci.org/boiyaa/tslint-no-return.svg?branch=master)](https://travis-ci.org/boiyaa/tslint-no-return) [![Greenkeeper badge](https://badges.greenkeeper.io/boiyaa/tslint-no-return.svg)](https://greenkeeper.io/)
 
 TSLint plugin to disable return statement
 
